@@ -1,3 +1,5 @@
 testing hook
 
 performing change for commit-1
+
+performing change for commit-2
